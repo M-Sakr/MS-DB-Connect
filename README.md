@@ -9,10 +9,10 @@ change language of ur db
 if u work with local network u may need to sql auth and user
 so that i developed fuctions for that: 
 Change_SQL_Server_authentication
-createUser
-CreateLogin
-createPermission
-and finally generate txt file has ur connection string, copy string and past it in ur app.
+,createUser
+,CreateLogin
+,createPermission
+,and finally generate txt file has ur connection string, copy string and past it in ur app.
 
 just past MS-DB_Connect app next to ur DBs and it will loop and attach,,, them 
 
