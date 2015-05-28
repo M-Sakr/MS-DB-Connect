@@ -15,6 +15,7 @@ Change_SQL_Server_authentication
 ,and finally generate txt file has ur connection string, copy string and past it in ur app.
 
 just past MS-DB_Connect app next to ur DBs and it will loop and attach,,, them 
+if not work run it as Adminstrator.
 
 Finnaly i need ur feedback to develop next version of this App which can help more peoples.
 
